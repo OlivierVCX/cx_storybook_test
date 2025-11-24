@@ -5,7 +5,6 @@
 - use those commands to install it:
 ```
 npm install
-npx storybook@latest init
 ```
 
 **To launch:**
