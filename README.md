@@ -2,7 +2,7 @@
 
 **To install:**
 - retrieve the branch
-- use those commands to install it:
+- use this command to install it:
 ```
 npm install
 ```
